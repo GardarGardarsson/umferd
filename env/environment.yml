@@ -1,0 +1,16 @@
+name: PythonDataAnalysis
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - seaborn
+  - numpy
+  - ipython
+  - pandas
+  - matplotlib
+  - notebook
+  - scikit-learn
+  - statsmodels
+  - pypandoc
+  - nbconvert==6.0.7
+prefix: /opt/anaconda3/envs/PythonDataAnalysis
